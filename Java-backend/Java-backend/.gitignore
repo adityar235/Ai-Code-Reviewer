@@ -33,5 +33,6 @@ build/
 .vscode/
 Java-backend/Java-backend/src/main/resources/application.properties
 src/main/resources/application.properties
+application.properties
 
 
