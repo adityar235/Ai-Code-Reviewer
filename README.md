@@ -21,17 +21,17 @@ An AI-powered Code Review Web Application that analyzes user-submitted code usin
 ### Frontend
 - React.js
 - Axios
-- HTML5
-- CSS3
-- JavaScript (ES6+)
 
 ### Backend
 - Java
 - Spring Boot
 - REST APIs
-- Maven / Gradle
-
+- Maven
+- 
 ### AI Integration
 - Grok API
 
 ---
+Backend has two part :
+backend : Express.js
+Java-backend : Spring Boot and java
