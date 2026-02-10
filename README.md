@@ -32,6 +32,12 @@ An AI-powered Code Review Web Application that analyzes user-submitted code usin
 - Grok API
 
 ---
-Backend has two part :
-backend : Express.js
-Java-backend : Spring Boot and java
+## 🧩 Backend Structure
+
+The backend of this project is divided into two parts:
+
+### 🔹 backend
+- Built using **Express.js**
+
+### 🔹 Java-backend
+- Built using **Spring Boot and Java**
